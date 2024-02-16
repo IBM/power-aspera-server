@@ -241,7 +241,7 @@ this repository.
 |------|---------|
 | <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.5.0 |
 | <a name="requirement_external"></a> [external](#requirement\_external) | 2.3.2 |
-| <a name="requirement_ibm"></a> [ibm](#requirement\_ibm) | 1.58.1 |
+| <a name="requirement_ibm"></a> [ibm](#requirement\_ibm) | 1.62.0 |
 | <a name="requirement_local"></a> [local](#requirement\_local) | 2.4.0 |
 
 ## Modules
@@ -252,17 +252,17 @@ No modules.
 
 | Name | Type |
 |------|------|
-| [ibm_iam_api_key.temp](https://registry.terraform.io/providers/IBM-Cloud/ibm/1.58.1/docs/resources/iam_api_key) | resource |
-| [ibm_pi_instance.aspera](https://registry.terraform.io/providers/IBM-Cloud/ibm/1.58.1/docs/resources/pi_instance) | resource |
+| [ibm_iam_api_key.temp](https://registry.terraform.io/providers/IBM-Cloud/ibm/1.62.0/docs/resources/iam_api_key) | resource |
+| [ibm_pi_instance.aspera](https://registry.terraform.io/providers/IBM-Cloud/ibm/1.62.0/docs/resources/pi_instance) | resource |
 | [local_file.create_resource](https://registry.terraform.io/providers/hashicorp/local/2.4.0/docs/resources/file) | resource |
 | [external_external.create_public_network](https://registry.terraform.io/providers/hashicorp/external/2.3.2/docs/data-sources/external) | data source |
 | [external_external.create_volume](https://registry.terraform.io/providers/hashicorp/external/2.3.2/docs/data-sources/external) | data source |
 | [external_external.import_catalog_image](https://registry.terraform.io/providers/hashicorp/external/2.3.2/docs/data-sources/external) | data source |
-| [ibm_iam_auth_token.current](https://registry.terraform.io/providers/IBM-Cloud/ibm/1.58.1/docs/data-sources/iam_auth_token) | data source |
-| [ibm_pi_catalog_images.all](https://registry.terraform.io/providers/IBM-Cloud/ibm/1.58.1/docs/data-sources/pi_catalog_images) | data source |
-| [ibm_pi_key.aspera](https://registry.terraform.io/providers/IBM-Cloud/ibm/1.58.1/docs/data-sources/pi_key) | data source |
-| [ibm_pi_network.private](https://registry.terraform.io/providers/IBM-Cloud/ibm/1.58.1/docs/data-sources/pi_network) | data source |
-| [ibm_resource_instance.power_workspace](https://registry.terraform.io/providers/IBM-Cloud/ibm/1.58.1/docs/data-sources/resource_instance) | data source |
+| [ibm_iam_auth_token.current](https://registry.terraform.io/providers/IBM-Cloud/ibm/1.62.0/docs/data-sources/iam_auth_token) | data source |
+| [ibm_pi_catalog_images.all](https://registry.terraform.io/providers/IBM-Cloud/ibm/1.62.0/docs/data-sources/pi_catalog_images) | data source |
+| [ibm_pi_key.aspera](https://registry.terraform.io/providers/IBM-Cloud/ibm/1.62.0/docs/data-sources/pi_key) | data source |
+| [ibm_pi_network.private](https://registry.terraform.io/providers/IBM-Cloud/ibm/1.62.0/docs/data-sources/pi_network) | data source |
+| [ibm_resource_instance.power_workspace](https://registry.terraform.io/providers/IBM-Cloud/ibm/1.62.0/docs/data-sources/resource_instance) | data source |
 
 ## Inputs
 
